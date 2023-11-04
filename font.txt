@@ -1,0 +1,6 @@
+font-family: 'Poppins', sans-serif;
+
+
+for icons add this css file
+ <link rel="stylesheet" href="icons/all.min.css">
+    <link rel="stylesheet" href="icons/fontawesome.min.css">
